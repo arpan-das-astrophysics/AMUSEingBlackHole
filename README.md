@@ -5,6 +5,7 @@
 ##### This is the official repository for AMUSEinggBlackHole. AMUSEingBlackHole is a N-body code that is able to simulate dense stellar clusters with many star particles. It is super fast and could use a single CPU, CPU cluster, GPU and GPU cluster as per requirement.
 
 #### Key feautres:
+
 ⋅⋅* Accretion recipes: Different accretion recipes e.g., constant accretion, **Bondi-hoyle-lyttleton** accretion and **Eddington** accretion
 ⋅⋅* Mass-radii relationship for main sequence stars 
 ⋅⋅* Collisions are handled by sticky sphere approximation 
