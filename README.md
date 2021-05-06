@@ -32,4 +32,6 @@
 * mpi4py
 * cuda 
 
----
+--- 
+
+The detailed physics in this code could be found in [this paper](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.1051D/abstract).
