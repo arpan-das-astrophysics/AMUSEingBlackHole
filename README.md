@@ -7,7 +7,13 @@
 #### Key feautres:
 
 1. Accretion recipes: Different accretion recipes e.g., constant accretion, **Bondi-hoyle-lyttleton** accretion and **Eddington** accretion
+
 2. Mass-radii relationship for main sequence stars 
+
 3. Collisions are handled by sticky sphere approximation 
+
 4. Gravitational interactions between the stars are modelled using the N-body code ph4
+
 5. Gravitational effect of the gas cloud is included via an analytical background potential coupled to the N-body code using the BRIDGE method
+
+6. All the outputs are saved in Pandas Dataframe
